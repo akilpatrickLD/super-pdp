@@ -71,7 +71,9 @@ Click SKU to jump to HTML.
 | [HWD1600BW](html/HWD1600BW.html)           |  wdcSuperPDP-HWD1600BW                    |
 | [HWD1600BW-LD](html/HWD1600BW-LD.html)     |  wdcSuperPDP-HWD1600BW-LD                 |
 | [KC1000SS](html/KC1000SS.html)             |  keg-super-pdp-KC1000SS                   |
-| [KC1500](html/KC1500.html)                 |  keg-super-pdp-KC1500                     |
+| [KC1500SS](html/KC1500SS.html)             |  keg-super-pdp-KC1500SS                   |
+| [KC1500BL](html/KC1500BL.html)             |  keg-super-pdp-KC1500BL                   |
+| [KC1500SSOD](html/KC1500SSOD.html)         |  keg-super-pdp-KC1500SSOD                 |
 | [KC2000](html/KC2000.html)                 |  keg-super-pdp-KC2000                     |
 | [KC2000SS](html/KC2000SS.html)             |  keg-super-pdp-KC2000SS                   |
 | [KC2000SSTWIN](html/KC2000SSTWIN.html)     |  keg-super-pdp-KC2000SSTWIN               |

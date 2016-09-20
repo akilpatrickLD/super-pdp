@@ -1,6 +1,6 @@
 # Super PDP
 
-Click SKU to jump to HTML.  
+Click SKU to jump to HTML
 
 | SKU                                        |  Custom Object Name                       |
 | ------------------------------------------ | ------------------------------------------|
